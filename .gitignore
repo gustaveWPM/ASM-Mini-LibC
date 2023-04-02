@@ -1,0 +1,5 @@
+*.o
+*.c
+!test_main.c
+*.so
+a.out
